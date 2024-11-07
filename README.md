@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AliKane01
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python in Arewa Data Science Academy
+- 💞️ I’m looking to collaborate on Data Science Learning
+- 📫 How to reach me? My user name is Alikan01
